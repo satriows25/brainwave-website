@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="A modern UI/UX website built with React.js and Tailwind CSS showcases sleek design, seamless animations, and exceptional user experience, setting a high standard for future applications and websites." src="https://i.postimg.cc/K8KZjnRj/Brainwave.png" width="100%">
+  <img alt="A modern UI/UX website built with React.js and Tailwind CSS showcases sleek design, seamless animations, and exceptional user experience, setting a high standard for future applications and websites." src="https://i.postimg.cc/SKsWtQQH/Brainwave.png" width="100%">
 
   <h1 align="center">Brainwave - Modern UI/UX website</h1>
 
